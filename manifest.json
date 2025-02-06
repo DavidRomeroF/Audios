@@ -1,0 +1,69 @@
+{
+    "name": "java-audio-pack",
+    "display-name": "Java Audio Pack",
+    "description": "Sound effects for common Java keywords and constructs.",
+    "author": "David",
+    "avatar": "ai.jpg",
+    "avatar-dark": "ai.jpg",
+    "version": "1.0.0",
+    "contributes": [
+        {
+            "keywords": "double",
+            "voices": ["double.mp3"]
+        },
+        {
+            "keywords": ["boolean"],
+            "voices": ["bolean.mp3"]
+        },
+        {
+            "keywords": ["for", "while", "do {"],
+            "voices": ["bucle.mp3"]
+        },
+        {
+            "keywords": ["class"],
+            "voices": ["Clase.mp3"]
+        },
+        {
+            "keywords": ["final"],
+            "voices": ["final.mp3"]
+        },
+        {
+            "keywords": ["float"],
+            "voices": ["float.mp3"]
+        },
+        {
+            "keywords": ["int"],
+            "voices": ["int.mp3"]
+        },
+        {
+            "keywords": ["private"],
+            "voices": ["private.mp3"]
+        },
+        {
+            "keywords": ["public"],
+            "voices": ["Public.mp3"]
+        },
+        {
+            "keywords": [";"],
+            "voices": ["puntocoma.mp3"]
+        },
+        {
+            "keywords": ["return"],
+            "voices": ["return.mp3"]
+        },
+        {
+            "keywords": ["static"],
+            "voices": ["Static.mp3"]
+        },
+        {
+            "keywords": ["void"],
+            "voices": ["void.mp3"]
+        },
+        {
+            "keywords": "$time_each_minute",
+            "voices": ["goofy-ahh-sounds.mp3"]
+        }
+        
+        
+    ]
+}
