@@ -3,13 +3,11 @@
     "display-name": "Java Audio Pack",
     "description": "Sound effects for common Java keywords and constructs.",
     "author": "David",
-    "avatar": "ai.jpg",
-    "avatar-dark": "ai.jpg",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "contributes": [
         {
-            "keywords": "double",
-            "voices": ["double.mp3"]
+            "keywords": ["double"],
+            "voices": ["double.mp3", "Espabila.mp3", "todBCasa.mp3"]
         },
         {
             "keywords": ["boolean"],
@@ -27,10 +25,7 @@
             "keywords": ["final"],
             "voices": ["final.mp3"]
         },
-        {
-            "keywords": ["float"],
-            "voices": ["float.mp3"]
-        },
+                      
         {
             "keywords": ["int"],
             "voices": ["int.mp3"]
@@ -60,10 +55,44 @@
             "voices": ["void.mp3"]
         },
         {
-            "keywords": "$time_each_minute",
-            "voices": ["goofy-ahh-sounds.mp3"]
+            "keywords": ["String"],
+            "voices": ["String.mp3"]
+        },
+        {
+            "keywords": ["main"],
+            "voices": ["main.mp3"]
+        },
+        {
+            "keywords": ["if"],
+            "voices": ["if.mp3"]
+        },
+        {
+            "keywords": ["else"],
+            "voices": ["else.mp3"]
+        },
+        {
+            "keywords": ["break"],
+            "voices": ["break.mp3"]
+        },
+        {
+            "keywords": ["args"],
+            "voices": ["args.mp3"]
+        },
+        {
+            "keywords": ["//", "/*", "*/"],
+            "voices": ["comentario.mp3"]
+        },
+        {
+            "keywords": ["float"],
+            "voices": ["float.mp3"]
+        },
+        {
+            "keywords": ["[","]"],
+            "voices": ["50-50.mp3","oPVoPR"]
         }
-        
+    
+    
+                 
         
     ]
 }
