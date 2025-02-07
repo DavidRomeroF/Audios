@@ -7,7 +7,7 @@
     "contributes": [
         {
             "keywords": ["double"],
-            "voices": ["double.mp3", "Espabila.mp3", "todBCasa.mp3"]
+            "voices": ["double.mp3", "todBCasa.mp3"]
         },
         {
             "keywords": ["boolean"],
